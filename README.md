@@ -4,6 +4,9 @@
 
 # 立项
 本身只是一个可以前进后退的媒体浏览器，内置媒体播放功能由第三方插件提供，使用者可以自定义开发其他文件的媒体播放。
+预测可以参考项目：
+* https://github.com/nzbin/photoviewer
+* https://github.com/hmcts/em-media-viewer
 
 
 # License 
