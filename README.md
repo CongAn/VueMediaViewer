@@ -7,6 +7,7 @@
 预测可以参考项目：
 * https://github.com/nzbin/photoviewer
 * https://github.com/hmcts/em-media-viewer
+* https://github.com/fengyuanchen/viewerjs
 
 
 # License 
